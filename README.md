@@ -16,7 +16,7 @@ Web and Mobile Developer
 
 - [🐾 Pawsitive](https://github.com/Luketruke/Luketruke/releases/download/v1.0.0/pawsitive.apk)  
   Mobile app to adopt and locate animals. Built with React Native.  
-  📥 [Download APK from Releases](https://github.com/Luketruke/Luketruke/releases/download/v1.0.0/pawsitive.apk)
+  📥 [Download APK](https://github.com/Luketruke/Luketruke/releases/download/v1.0.0/pawsitive.apk)
 
 ---
 
