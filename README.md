@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hello! I'm Lucas.
 
-<!--
-**Luketruke/Luketruke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web and Mobile Developer
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌍 Web Sites
+
+- [💼 Ouno](https://ouno.com.ar/)  
+  Digital consulting website built with React and responsive design.
+
+- [📚 Alas Para Crecer](https://alasparacrecer.com.ar/)  
+  Educational website focused on pedagogy. Built with React and responsive design.
+
+### 📱 Mobile Apps
+
+- [🐾 Pawsitive](https://github.com/Luketruke/projects/releases/tag/v1.0.0)  
+  Mobile app to adopt and locate animals. Built with React Native.  
+  📥 [Download APK from Releases](https://github.com/Luketruke/projects/releases/tag/v1.0.0)
+
+---
+
+> 💌 Feel free to [send me an email](mailto:lucaszabalett@gmail.com) or connect via [LinkedIn](https://linkedin.com/in/lucaszabalett)
